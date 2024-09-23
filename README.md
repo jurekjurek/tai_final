@@ -1,0 +1,1 @@
+A project for university, in which different machine learning models (bayesian classifier, decision tree, neural net) are trained to predict different weather aspects, such as temperature, precipitation etc. 
